@@ -1,4 +1,4 @@
-#oct13
+# oct13
  began Unit 8: 3D Modeling with AI using OpenSCAD, 
 a tool that builds 3D shapes through code. The instructor showed how to use commands like cube(), cylinder(), translate(), and rotate() to create a simple car model. 
 We also used ChatGPT to generate OpenSCAD code, this was my favorit i actually tired to design a buttifly and it didnt really look relistic and i ddidnt like it but when i tried to make roses they looked so relistic and kind of cool 

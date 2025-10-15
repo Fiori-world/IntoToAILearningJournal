@@ -1,4 +1,4 @@
-#oct9
+# oct9
 
 Today’s lecture covered AI video generation, focusing on OpenAI’s Sora and its ethical issues like misuse and misinformation.
  start projects early and use tutoring help. 
