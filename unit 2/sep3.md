@@ -1,0 +1,2 @@
+# sep 3
+we learned about using AI for work tasks like emails, marketing, and summarizing. AI can help write emails, make schedules, and create marketing plans if you give it clear instructions, called prompts. Good prompts give context and details, so the AI output is useful 

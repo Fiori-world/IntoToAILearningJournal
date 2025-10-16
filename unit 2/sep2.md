@@ -1,0 +1,2 @@
+# sep 2
+we talked about Unit 2 and its four assignments a coding task, a journal entry, an AI research paper, and an AI resume. wem focused on prompt engineering, which means giving AI clear instructions, checking its work, and fixing it if needed 

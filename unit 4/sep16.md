@@ -1,0 +1,2 @@
+# sep 16
+we learned about using AI to help code a small Cookie Clicker game. The teacher showed how to ask AI to add things like headers, footers, and auto cookie makers called “grandmas.” He said AI can make coding faster but also makes mistakes, so we still need to check its work 

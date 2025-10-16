@@ -1,0 +1,3 @@
+# sep 17
+
+how AI is affecting the job market and programming, beginning with an article about companies using AI for hiring and interviews. Then, the class explored how AI can help debug code its strengths, like quickly spotting syntax or logic errors, and its limits, such as making up fake methods, giving wrong explanations, or being “lazy.”  AI doesn’t truly understand code it just predicts patterns and also we just worked on skyrim Store  for the rest of class where we dubuged broken java script

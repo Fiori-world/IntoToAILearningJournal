@@ -1,0 +1,2 @@
+# sep 22
+In class, we talked about Meta’s new AR glasses that use AI to understand what people see. They cost around $800 and have a small screen built in.  also explained computer parts like the motherboard, CPU, GPU, RAM, and storage, and how they all work together. We learned how servers are like stronger computers and talked about a small one called a Raspberry Pi, which uses a Linux system. I understood some of it, but parts about the hardware and setup were a bit confusing.
