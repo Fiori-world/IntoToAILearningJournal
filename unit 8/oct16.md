@@ -1,1 +1,2 @@
 # oct 16
+Today, we switched projects with another group and worked on them the whole class. My partner and I decided to try doing our own project first. Mine works, but it had a small problem with linking, so we went with her version the one we gave to the other group since it worked. Mine is still good though so  I’ll probably work on it later to figure out how to link it correctly without errors.
