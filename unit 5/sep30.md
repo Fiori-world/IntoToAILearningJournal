@@ -1,0 +1,3 @@
+# SEP 30
+
+In class, we talked about using AI tools like ChatGPT and Ollama. The teacher explained that ChatGPT is used online, but Ollama lets you run AI on your own computer without the internet. We learned how to install Ollama and use it with models like Llama 3.2 . He also showed how to use a tool called Open WebUI to make the AI easier to use. I understood a little, but it was confusing because there were many steps and commands to follow.

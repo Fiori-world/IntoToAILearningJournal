@@ -1,4 +1,4 @@
-# oct 29
+# oct 7
 today’s lecture focused on how to install and use Docker to deploy AI applications. Docker allows software to run the same on any system—Windows, Mac, or Linux. Containers are faster and lighter than virtual machines because they share the same operating system kernel instead of needing a full OS for each app.
 
 We went over core Docker concepts: an image is a snapshot of an app and its dependencies, a container is a running version of that image, a Dockerfile contains the instructions to build an image, and a volume stores data from a container.

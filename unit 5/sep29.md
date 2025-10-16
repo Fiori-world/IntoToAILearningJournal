@@ -1,0 +1,2 @@
+# sep 29
+ talked a lot about Docker. I didn’t really get it. It sounded like it helps run apps on any computer. He said it’s faster than virtual machines and is used to build and run AI and other software. We had to install Docker, but it was kind of confusing. There were many steps for Windows, Mac, and Linux, and I didn’t understand most of it. He showed commands like “docker run” and “docker ps,” but I’m still not sure what they do. I think Docker helps with cloud and databases later, but I’m still lost.

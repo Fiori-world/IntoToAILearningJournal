@@ -1,4 +1,4 @@
-# oct 6
+# oct 2
 Today we learned about the dot-com bubble from the 1990s when “.com” companies were overvalued and crashed. The AI bubble today is much larger but may slowly decrease instead of popping. Real profit comes from companies running the models, like AWS and Azure.
 
 For Unit 6, the project is due Tuesday. We need to take a screenshot of a local model running, build our own model file, and connect the front end with Olama using npm install olama. Make sure the port number matches the Docker container’s port.

@@ -1,0 +1,3 @@
+# SEP 24
+
+we talked a little about Stephen King and creativity, but most of it was about using a program called Casa OS on a virtual machine was shown how to set it up to make your own cloud system and even use apps like a personal Netflix. They also talked about something called Ollama, which runs AI on your computer without the internet. I didn’t fully understand everything, especially how the setup worked, but I got that it’s about using virtual machines to try new software .
