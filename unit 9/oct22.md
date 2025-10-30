@@ -1,0 +1,2 @@
+# oct 22
+In class, we reviewed the winter term syllabus and discussed AI and gaslighting after watching a Michael Reeves and Vsauce video. The video showed how AI like ChatGPT reprocesses chats instead of remembering them. Then we worked with N8N and MySQL, practicing workflows and database connections. Finally, we got a homework assignment to create a new workflow with at least five nodes using AI, databases, or APIs.

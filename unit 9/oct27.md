@@ -1,0 +1,2 @@
+# oct 27
+I'm not here in class today but I watched  the Zoom recording and it looked like they just went over the instructions and chose groups And how we just have a short time since school is going to end very soon and I don't really miss anything 'cause I already knew who was in my group I also knew what I wanted to do from the start but yeah
