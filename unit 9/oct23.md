@@ -1,0 +1,2 @@
+# oct 23
+In class, we talked about OpenAI’s new AI-powered web browser called Atlas, which is basically Chrome with added plugins and a built in chatbot. The btw that it’s not open source so it’s less trustworthy compared to Chromium. Then we discussed ByteJam 2025, where everyone needs to contact their teams oh nd i still need to introuduce my self in the teams btw ima do it today and plan  projects before the event. After that, it was a lab day to finish Unit 9 assignments, including the journal entry, NA database, and a custom workflow.
